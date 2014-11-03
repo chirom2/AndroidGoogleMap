@@ -1,0 +1,1 @@
+Change minSdk -> 'Project'->app->build.gradle
